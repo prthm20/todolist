@@ -4,6 +4,7 @@ const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 const { MongoUnexpectedServerResponseError } = require("mongodb");
 const _=require("lodash")
+const NODE_VERSION="^20.5.1"
 //--------------------------------------------------------------------------------------------------------------------//
 const app = express();
 app.set("view engine", "ejs");

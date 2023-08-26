@@ -14,7 +14,6 @@
     "lodash": "^4.17.21",
     "mongoose": "^7.4.3",
     "node": "^20.5.1"
-
   },
   "description": ""
 }

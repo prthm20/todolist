@@ -15,5 +15,8 @@
     "mongoose": "^7.4.3",
     "node": "^20.5.1"
   },
+    "engines": {
+    "node": ">=14 <15"
+  }
   "description": ""
 }

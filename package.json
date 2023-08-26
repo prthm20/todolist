@@ -13,22 +13,12 @@
     "express": "^4.16.3",
 <<<<<<< HEAD
 <<<<<<< HEAD
-    "lodash": "^4.17.21",
-    
-    "mongoose": "^7.4.3"
-=======
     
 =======
->>>>>>> 76c1540 (initial commit)
     "lodash": "^4.17.21",
     "mongoose": "^7.4.3",
-<<<<<<< HEAD
     "node": "^20.5.1"
->>>>>>> 252765b (initial commit)
-=======
-    "node": "^20.5.1",
-    "yarn": "^1.22.19"
->>>>>>> 76c1540 (initial commit)
+    
   },
   "description": ""
 }
